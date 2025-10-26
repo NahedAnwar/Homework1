@@ -1,0 +1,11 @@
+C:\Users\نـــهـــئ انور\source\repos\Homework1\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\نـــهـــئ انور\source\repos\Homework1\Homework1\bin\Debug\Homework1.exe
+C:\Users\نـــهـــئ انور\source\repos\Homework1\Homework1\bin\Debug\Homework1.pdb
+C:\Users\نـــهـــئ انور\source\repos\Homework1\Homework1\obj\Debug\Homework1.csproj.AssemblyReference.cache
+C:\Users\نـــهـــئ انور\source\repos\Homework1\Homework1\obj\Debug\Homework1.Employee.resources
+C:\Users\نـــهـــئ انور\source\repos\Homework1\Homework1\obj\Debug\Homework1.Properties.Resources.resources
+C:\Users\نـــهـــئ انور\source\repos\Homework1\Homework1\obj\Debug\Homework1.csproj.GenerateResource.cache
+C:\Users\نـــهـــئ انور\source\repos\Homework1\Homework1\obj\Debug\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\نـــهـــئ انور\source\repos\Homework1\Homework1\obj\Debug\Homework1.exe
+C:\Users\نـــهـــئ انور\source\repos\Homework1\Homework1\obj\Debug\Homework1.pdb
+C:\Users\نـــهـــئ انور\source\repos\Homework1\Homework1\obj\Debug\Homework1.exe.config
