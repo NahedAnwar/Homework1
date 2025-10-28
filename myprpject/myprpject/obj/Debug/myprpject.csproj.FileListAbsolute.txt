@@ -1,0 +1,11 @@
+C:\Users\نـــهـــئ انور\source\repos\myprpject\myprpject\bin\Debug\myprpject.exe.config
+C:\Users\نـــهـــئ انور\source\repos\myprpject\myprpject\bin\Debug\myprpject.exe
+C:\Users\نـــهـــئ انور\source\repos\myprpject\myprpject\bin\Debug\myprpject.pdb
+C:\Users\نـــهـــئ انور\source\repos\myprpject\myprpject\obj\Debug\myprpject.csproj.AssemblyReference.cache
+C:\Users\نـــهـــئ انور\source\repos\myprpject\myprpject\obj\Debug\myprpject.Form1.resources
+C:\Users\نـــهـــئ انور\source\repos\myprpject\myprpject\obj\Debug\myprpject.Properties.Resources.resources
+C:\Users\نـــهـــئ انور\source\repos\myprpject\myprpject\obj\Debug\myprpject.csproj.GenerateResource.cache
+C:\Users\نـــهـــئ انور\source\repos\myprpject\myprpject\obj\Debug\myprpject.csproj.CoreCompileInputs.cache
+C:\Users\نـــهـــئ انور\source\repos\myprpject\myprpject\obj\Debug\myprpject.exe
+C:\Users\نـــهـــئ انور\source\repos\myprpject\myprpject\obj\Debug\myprpject.pdb
+C:\Users\نـــهـــئ انور\source\repos\myprpject\myprpject\obj\Debug\myprpject.exe.config
